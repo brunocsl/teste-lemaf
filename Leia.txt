@@ -1,0 +1,23 @@
+Para o programa funcionar, são necessários alguns arquivos de entrada:
+
+1) categorias.txt -> Lista de categorias a serem cadastradas.
+Deve ter o nome da categoria e o limite de passageiros. Exemplo:
+Suv;7
+Compacto;4
+Esportivo;2
+
+2) carros.txt -> Lista de carros a serem cadastrados.
+Deve ter o nome do carro e a categoria - Exemplo:
+Gol;Compacto;
+Ferrari;Esportivo;
+HRV;Suv;
+Fiesta;Compacto;
+
+3) entrada.txt -> Intervalo de datas para um cliente regular.
+Exemplo:
+Suv: 4: 16Mar2009 (seg), 17Mar2009 (ter), 18Mar2009 (sab)
+
+
+A saída do programa será o nome dos carros disponíveis na loja com
+a menor taxa para o período de locação. O resultado será gravado no
+arquivo saida.txt

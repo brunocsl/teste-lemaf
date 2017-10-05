@@ -1,0 +1,14 @@
+C:\Users\Sayonara\source\repos\Locadora\Locadora\bin\Debug\Locadora.exe.config
+C:\Users\Sayonara\source\repos\Locadora\Locadora\bin\Debug\Locadora.exe
+C:\Users\Sayonara\source\repos\Locadora\Locadora\bin\Debug\Locadora.pdb
+C:\Users\Sayonara\source\repos\Locadora\Locadora\obj\Debug\Locadora.csprojResolveAssemblyReference.cache
+C:\Users\Sayonara\source\repos\Locadora\Locadora\obj\Debug\Locadora.csproj.CoreCompileInputs.cache
+C:\Users\Sayonara\source\repos\Locadora\Locadora\obj\Debug\Locadora.exe
+C:\Users\Sayonara\source\repos\Locadora\Locadora\obj\Debug\Locadora.pdb
+C:\Users\Bruno\Desktop\Locadora\Locadora\obj\Debug\Locadora.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\Locadora\Locadora\obj\Debug\Locadora.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Locadora\Locadora\obj\Debug\Locadora.exe
+C:\Users\Bruno\Desktop\Locadora\Locadora\obj\Debug\Locadora.pdb
+C:\Users\Bruno\Desktop\Locadora\Locadora\bin\Debug\Locadora.exe.config
+C:\Users\Bruno\Desktop\Locadora\Locadora\bin\Debug\Locadora.exe
+C:\Users\Bruno\Desktop\Locadora\Locadora\bin\Debug\Locadora.pdb
